@@ -1,0 +1,17 @@
+{
+    "name": "nikits/project",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Nikits\\Project\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "NikitaChumak"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
